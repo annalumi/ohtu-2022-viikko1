@@ -4,4 +4,4 @@
 
 [![codecov](https://codecov.io/gh/annalumi/ohtu-2022-viikko1/branch/main/graph/badge.svg)](https://codecov.io/gh/annalumi/ohtu-2022-viikko1)
 
-(https://github.com/annalumi/ohtu-tehtavat)
+https://github.com/annalumi/ohtu-tehtavat
