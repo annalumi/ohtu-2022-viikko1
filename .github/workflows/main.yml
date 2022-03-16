@@ -22,6 +22,6 @@ jobs:
         run: poetry install
       - name: Run tests
         run: poetry run coverage run --branch -m pytest
-      - name: Run pylint
-        run: pylint src
+      - name: lint
+        run: run poetry run pylint src
     
